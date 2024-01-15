@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tossing>
+  <Item Type = "PF">
+    <Index>1</Index>
+    <Value1>左件扫码失败</Value1>
+    <Value2>1</Value2>
+    <Code>026001</Code>	
+  </Item>
+  <Item Type = "PF">
+    <Index>2</Index>
+    <Value1>右件扫码失败</Value1>
+    <Value2>2</Value2>
+    <Code>026001</Code>	
+  </Item>
+  <Item Type = "PF">
+    <Index>3</Index>
+    <Value1>LC扫码失败</Value1>
+    <Value2>1</Value2>
+    <Code>026002</Code>
+  </Item>
+  <Item Type = "Yeild">
+    <Index>4</Index>
+    <Value1>1#机台上料确认失败/焊接失败</Value1>
+    <Value2>1</Value2>
+    <Code>026007</Code>	
+  </Item> 
+<Item Type = "Yeild">
+    <Index>5</Index>
+    <Value1>2#机台上料确认失败/焊接失败</Value1>
+    <Value2>1</Value2>
+    <Code>026007</Code>	
+  </Item> 
+</Tossing>
