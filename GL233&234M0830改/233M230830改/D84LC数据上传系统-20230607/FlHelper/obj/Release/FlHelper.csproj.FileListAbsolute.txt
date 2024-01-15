@@ -1,0 +1,16 @@
+D:\ZHH\D84LC数据上传系统-20230607\FlHelper\bin\Release\FlHelper.dll.config
+D:\ZHH\D84LC数据上传系统-20230607\FlHelper\bin\Release\FlHelper.dll
+D:\ZHH\D84LC数据上传系统-20230607\FlHelper\bin\Release\FlHelper.pdb
+D:\ZHH\D84LC数据上传系统-20230607\FlHelper\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\ZHH\D84LC数据上传系统-20230607\FlHelper\bin\Release\Newtonsoft.Json.dll
+D:\ZHH\D84LC数据上传系统-20230607\FlHelper\bin\Release\System.Memory.dll
+D:\ZHH\D84LC数据上传系统-20230607\FlHelper\bin\Release\System.Numerics.Vectors.dll
+D:\ZHH\D84LC数据上传系统-20230607\FlHelper\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\ZHH\D84LC数据上传系统-20230607\FlHelper\bin\Release\ICSharpCode.SharpZipLib.pdb
+D:\ZHH\D84LC数据上传系统-20230607\FlHelper\bin\Release\ICSharpCode.SharpZipLib.xml
+D:\ZHH\D84LC数据上传系统-20230607\FlHelper\bin\Release\Newtonsoft.Json.xml
+D:\ZHH\D84LC数据上传系统-20230607\FlHelper\bin\Release\System.Memory.xml
+D:\ZHH\D84LC数据上传系统-20230607\FlHelper\bin\Release\System.Numerics.Vectors.xml
+D:\ZHH\D84LC数据上传系统-20230607\FlHelper\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\ZHH\D84LC数据上传系统-20230607\FlHelper\obj\Release\FlHelper.dll
+D:\ZHH\D84LC数据上传系统-20230607\FlHelper\obj\Release\FlHelper.pdb

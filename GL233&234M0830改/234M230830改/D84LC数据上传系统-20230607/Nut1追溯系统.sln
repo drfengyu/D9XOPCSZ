@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nut1追溯系统", "Nut1追溯系统\Nut1追溯系统.csproj", "{7E6DAA6E-CCF4-4509-BB63-B0082D16E45A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlHelper", "FlHelper\FlHelper.csproj", "{438A6420-E337-4259-B5E2-03ADF9C2F088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "通讯接口测试(JGP)", "..\通讯接口测试(JGP)-20230607\通讯接口测试(JGP)-20200415\通讯接口测试(JGP).csproj", "{723A1F0C-068C-463B-B012-C972E5174048}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E6DAA6E-CCF4-4509-BB63-B0082D16E45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E6DAA6E-CCF4-4509-BB63-B0082D16E45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E6DAA6E-CCF4-4509-BB63-B0082D16E45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E6DAA6E-CCF4-4509-BB63-B0082D16E45A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438A6420-E337-4259-B5E2-03ADF9C2F088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438A6420-E337-4259-B5E2-03ADF9C2F088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438A6420-E337-4259-B5E2-03ADF9C2F088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438A6420-E337-4259-B5E2-03ADF9C2F088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723A1F0C-068C-463B-B012-C972E5174048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723A1F0C-068C-463B-B012-C972E5174048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723A1F0C-068C-463B-B012-C972E5174048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723A1F0C-068C-463B-B012-C972E5174048}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
